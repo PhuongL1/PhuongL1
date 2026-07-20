@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Phuong Nguyen 👋
+# Hi there, I'm Phuong 👋
 
 ### Android Developer | Kotlin | Java | Firebase | REST API
 
